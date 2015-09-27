@@ -8,12 +8,12 @@ This is the code book describing the data filds in tidy.txt.
 
 #Activity Type
 activityID  activityName
-	1	        WALKING
-	2	        WALKING_UPSTAIRS
-	3	        WALKING_DOWNSTAIRS
-	4	        SITTING
-	5	        STANDING
-	6	        LAYING
+-	1	        WALKING
+-	2	        WALKING_UPSTAIRS
+-	3	        WALKING_DOWNSTAIRS
+-	4	        SITTING
+-	5	        STANDING
+-	6	        LAYING
 
 
 # Measurements: mean and standard deviation                  
