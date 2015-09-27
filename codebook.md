@@ -1,10 +1,10 @@
-# Code Book
+## Code Book
 
 This is the code book describing the data filds in tidy.txt.
 
 # Unique IDs: activity and subject
-activityID - Types of activities (1-6)
-subjectID - ID of the test subject
+*activityID - Types of activities (1-6)
+*subjectID - ID of the test subject
 
 #Activity Type
 activityID  activityName
